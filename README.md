@@ -1,1 +1,1 @@
-https://github.com/siddharth018/laravel-8-image-crud
+crudoprations:https://github.com/siddharth018/laravel-8-image-crud
